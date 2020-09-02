@@ -1,0 +1,23 @@
+[
+    {
+        "main/loss": 0.5884703428309876,
+        "reconstruction_error": 3.0028362443786523,
+        "epoch": 1,
+        "iteration": 64,
+        "elapsed_time": 1.4900675999815576
+    },
+    {
+        "main/loss": 0.015753008335764207,
+        "reconstruction_error": 0.0019945377185297338,
+        "epoch": 2,
+        "iteration": 128,
+        "elapsed_time": 2.941906200023368
+    },
+    {
+        "main/loss": 1.328470595401976e-05,
+        "reconstruction_error": 4.647146710226347e-06,
+        "epoch": 3,
+        "iteration": 192,
+        "elapsed_time": 4.428673400019761
+    }
+]
